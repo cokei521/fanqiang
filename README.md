@@ -3,6 +3,10 @@
 旧账号Alvin9999被屏蔽，启用新账号。
 
 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、fanqiang、油管youtube/视频下载、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/hysteria2/vmess/vless/reality/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、美区apple id共享账号、翻墙-科学上网-梯子
+shadowsocks
+![分享](<分享链接-194953.png>)
+
+ss://YWVzLTEyOC1nY206ZGhjYzEyMzA@45.114.127.119:1100?#%E9%A6%99%E6%B8%AF1%E5%8F%B78-8
 
 项目：https://github.com/Alvin9999-newpac/fanqiang/wiki
 
